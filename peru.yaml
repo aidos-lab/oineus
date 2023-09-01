@@ -12,6 +12,6 @@ git module Catch2:
     rev: devel
 
 git module opts:
-    url: git@github.com:mrzv/opts.git
+    url: https://github.com/mrzv/opts.git
     rev: 3f6a6637ac841f8f867fc0cba3e13258f6dc3300
     pick: include/opts
